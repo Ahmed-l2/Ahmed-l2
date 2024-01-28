@@ -1,4 +1,4 @@
-##Hello 👋 I'm Ahmed
+Hello 👋 I'm Ahmed
 
 Im a dedicated software engineering student with a passion for technology and years of hands-on experience with computers. Whether it's troubleshooting, diagnostics, or PC maintenance, I've got you covered. I'm on a journey to expand my skills and contribute to the ever-evolving world of software development. Explore my portfolio to see my projects and follow my growth in the tech realm! 💻🚀
 
